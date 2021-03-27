@@ -1,1 +1,1 @@
-# Checks if a Magic: The Gathering card I want is currently below a certain price, and emails me if it is. This can be generalized to other web checks. You just have to modify the Beautiful Soup code to grap the part of the page that is of interest. 
+Checks if an item I want is currently below a certain price, and emails me if it is. This can be generalized to other web checks. Just modify the Beautiful Soup code to grab the part of the page that is of interest. 
